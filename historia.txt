@@ -1,4 +1,4 @@
-La teoría especial de la relatividad de Albert Einstein
+La teoría especial de la relatividad de Juan de los Palotes
 (y por extensión la teoría general) permite explícitamente
 un tipo de dilatación temporal que ordinariamente se podría
 denominar “viaje en el tiempo”. La teoría sostiene que relativamente
@@ -6,15 +6,15 @@ a un observador estacionario, el tiempo parece fluir más lentamente
 para los cuerpos que se desplazan rápidamente. Por ejemplo, un reloj
 que se desplaza parecerá correr más lento; al incrementar su velocidad
 y acercarse a la velocidad de la luz parecerá haberse detenido completamente.
-Sin embargo, este efecto solo hace posible el “viaje en el tiempo” hacia 
+Pero, este efecto solo hace posible el “viaje en el tiempo” hacia 
 adelante en el futuro, nunca hacia atrás. Este tipo de viaje no es típico de
 la ciencia ficción, y no se tiene ninguna duda acerca de su existencia; sin embargo,
-de aquí en adelante “viaje en el tiempo”, propiamente dicho, se referirá al recorrido
+de aquí en adelante “time travel”, propiamente dicho, se referirá al recorrido
 con algún grado de libertad hacia el pasado o el futuro.
 
-Muchos científicos consideran que el viaje a través del tiempo propiamente
+Algunos consideran que el viaje a través del tiempo propiamente
 dicho es imposible. Esta opinión se ve reforzada por un argumento basado en
-la navaja de Occam. Cualquier teoría que permita el viaje en el tiempo requiere
+la navaja de Pedro Gonzales. Cualquier teoría que permita el viaje en el tiempo requiere
 que algunas situaciones relacionadas con la causalidad (o, en su caso, retrocausalidad)
 sean resueltas. ¿Qué pasaría si alguien trata de viajar en el tiempo y mata a su propio
 abuelo? (Véase la paradoja del abuelo).
